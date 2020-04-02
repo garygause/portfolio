@@ -7,6 +7,6 @@ This is my main portfolio of software engineering projects that I have done over
 
   - [React Portfolio](https://github.com/garygause/portfolio-react): React web apps, react-native mobile apps, and react-electron desktop apps I've done.
 
-  - [Mobile Portfolio](https://github.com/garygause/portfolio-mobile): Over ten years of mobile development work, native Android/iOs as well as react-native work.
+  - [Mobile Development Portfolio](https://github.com/garygause/portfolio-mobile): Over ten years of mobile development work, native Android/iOs as well as react-native work.
   
   
