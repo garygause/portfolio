@@ -17,7 +17,9 @@ This is my main portfolio of software engineering projects that I have done over
 
 - ### Web
 
-  - [Powerline Analytics](https://github.com/garygause/portfolio-projects/tree/master/powerline/README.md#analytics): A web app for visualizing powerline sensor data in real time.  Part of the Powerline product I developed at Recon Dynamics adding smart sensors to powerlines across the West Coast to detect and prevent forest fires.
+  - [Powerline Analytics](https://github.com/garygause/portfolio-projects/tree/master/powerline/README.md#analytics): A web app for visualizing powerline sensor data in real time.  Part of the Powerline product I developed at Recon Dynamics adding smart sensors to powerlines across the West Coast to detect and prevent forest fires. (2020)
+  
+  - [Jenny Life](https://github.com/garygause/portfolio-projects/tree/master/jennylife/README.md): A web app that allows you to apply for life insurance.  (2018)
 
 
 
