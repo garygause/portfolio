@@ -23,5 +23,5 @@ This is my main portfolio of software engineering projects that I have done over
   
   - [Jenny Life](https://github.com/garygause/portfolio-projects/tree/master/jennylife/README.md): A react web app that allows you to apply for life insurance.  (2018)
 
-
+  - [Homescout](https://github.com/garygause/portfolio-projects/tree/master/homescout): Early dot-com era real estate listing website. Grew the company from early stage to the largest real estate listing website at the time, over 600k listings (1998). 
 
