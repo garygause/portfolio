@@ -13,13 +13,15 @@ This is my main portfolio of software engineering projects that I have done over
 
 - ### Mobile
 
-     - [TVSupplier](https://github.com/garygause/portfolio-projects/tree/master/tvsupplier/README.md):  mobile app that allows suppliers to construction sites to scan the QR code on an asset tracking tag and enter a description and other information before shipping.  React Native, Android, iOs (2019)
+     - [TVSupplier](https://github.com/garygause/portfolio-projects/tree/master/tvsupplier/README.md):  react native mobile app that allows suppliers to construction sites to scan the QR code on an asset tracking tag and enter a description and other information before shipping.  React Native, Android, iOs (2019)
+
+  - [Jenny Life](https://github.com/garygause/portfolio-projects/tree/master/jennylife/README.md): A native android app that allows you to apply for life insurance.  (2018)
 
 - ### Web
 
-  - [Powerline Analytics](https://github.com/garygause/portfolio-projects/tree/master/powerline/README.md#analytics): A web app for visualizing powerline sensor data in real time.  Part of the Powerline product I developed at Recon Dynamics adding smart sensors to powerlines across the West Coast to detect and prevent forest fires. (2020)
+  - [Powerline Analytics](https://github.com/garygause/portfolio-projects/tree/master/powerline/README.md#analytics): A react web app for visualizing powerline sensor data in real time.  Part of the Powerline product I developed at Recon Dynamics adding smart sensors to powerlines across the West Coast to detect and prevent forest fires. (2020)
   
-  - [Jenny Life](https://github.com/garygause/portfolio-projects/tree/master/jennylife/README.md): A web app that allows you to apply for life insurance.  (2018)
+  - [Jenny Life](https://github.com/garygause/portfolio-projects/tree/master/jennylife/README.md): A react web app that allows you to apply for life insurance.  (2018)
 
 
 
