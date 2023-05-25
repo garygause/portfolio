@@ -11,7 +11,7 @@ This is my main portfolio of some of the software engineering projects that I ha
 
   - [FanWide](https://github.com/garygause/portfolio-projects/tree/master/fanwide/README.md): A native android app for scheduling sporting event watch parties.  (2017)
 
-  - [VendScreen Realize](): A native android app developed to run on vending machines.  Winner of the Gold Innovation Award.  (2014)
+  - [VendScreen Realize](https://github.com/garygause/portfolio-projects/tree/master/vendscreen/README.md): A native android app developed to run on vending machines.  Winner of the Gold Innovation Award.  (2014)
 
 ### Services
 
