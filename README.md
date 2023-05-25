@@ -27,7 +27,7 @@ This is my main portfolio of some of the software engineering projects that I ha
 
   - [Willow](): A web app and API to support research investigating the benefit of technology in monitoring patient progress in a therapist setting.  (2016)
 
-  - [Socrata](): A website for government data visualization.  (2015)
+  - [Socrata](https://github.com/garygause/portfolio-projects/tree/master/socrata/README.md): A website for government data visualization.  (2015)
 
   - [Homescout](https://github.com/garygause/portfolio-projects/tree/master/homescout): Early dot-com era real estate listing website. Grew the company from early stage to the largest real estate listing website at the time, over 600k listings (1998). 
 
