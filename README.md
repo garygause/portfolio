@@ -21,9 +21,9 @@ This is my main portfolio of some of the software engineering projects that I ha
 
 ### Web
 
-  - [PFLAG Stanwood-Camano](https://pflagstanwoodcamano.org/): Website for the Stanwood-Camano chapter of PFLAG, an LGBTQIA+ support organization. (2022)
+  - [PFLAG Stanwood-Camano](https://github.com/garygause/portfolio-projects/tree/master/pflag/README.md): Website for the Stanwood-Camano chapter of PFLAG, an LGBTQIA+ support organization. (2022)
 
-  - [Freedom Park Assocation](https://freedomparkassociation.com/): Website for the group that supports and maintains the privately funded Freedom Park. (2021)
+  - [Freedom Park Assocation](https://github.com/garygause/portfolio-projects/tree/master/freedompark/README.md): Website for the group that supports and maintains the privately funded Freedom Park. (2021)
 
   - [Powerline Analytics](https://github.com/garygause/portfolio-projects/tree/master/powerline/README.md#analytics): A react web app for visualizing powerline sensor data in real time.  Part of the Powerline product I developed at Recon Dynamics adding smart sensors to powerlines across the West Coast to detect and prevent forest fires. (2021)
   
