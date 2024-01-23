@@ -35,3 +35,9 @@ This is my main portfolio of some of the software engineering projects that I ha
 
   - [Homescout](https://github.com/garygause/portfolio-projects/tree/master/homescout): Early dot-com era real estate listing website. Grew the company from early stage to the largest real estate listing website at the time, over 600k listings (1998). 
 
+### Exmaple Projects
+
+You can also view example projects I write using various frameworks as part of my learning and reference efforts.
+
+- [next-example-projects](https://github.com/garygause/next-example-projects)
+- [react-example-projects](https://github.com/garygause/react-example-projects)
