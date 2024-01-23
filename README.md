@@ -37,7 +37,9 @@ This is my main portfolio of some of the software engineering projects that I ha
 
 ### Exmaple Projects
 
-You can also view example projects I write using various frameworks as part of my learning and reference efforts.
+You can also view example projects I have written using various frameworks and technologies as part of my ongoing learning efforts.
 
 - [next-example-projects](https://github.com/garygause/next-example-projects)
 - [react-example-projects](https://github.com/garygause/react-example-projects)
+
+
